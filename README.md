@@ -1,1 +1,1 @@
-# GoTrainings
+# Golang Training - Arvinder Pal
