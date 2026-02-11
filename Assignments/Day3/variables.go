@@ -7,7 +7,7 @@ import "fmt"
 var (
 	g1 = "Global grouped 1"
 	g2 = "Global grouped 2"
-)
+)git 
 
 // Q12 Grouped declarations
 var (

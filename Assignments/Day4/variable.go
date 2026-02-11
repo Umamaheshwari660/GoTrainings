@@ -211,6 +211,7 @@ func main() {
 	// 10. Create package-level variables using grouped declaration at global scope. Initialize some, leave others with zero values.
 	//////////////////////////////////////////////////
 	fmt.Println("10.", g1, g2, g3)
+	fmt.Println("10.", g1, g2, g3)
 
 	//////////////////////////////////////////////////
 	// 11. for loop variable
