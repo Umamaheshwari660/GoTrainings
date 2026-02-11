@@ -66,6 +66,7 @@ func main() {
 	case bmi < 18.5:
 		fmt.Println("Underweight")
 	case bmi < 25:
+		
 		fmt.Println("Normal")
 	case bmi < 30:
 		fmt.Println("Overweight")
